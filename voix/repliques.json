@@ -1,0 +1,5020 @@
+{
+ "0": {
+  "personnages": [
+   0,
+   1,
+   2
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2
+  ]
+ },
+ "1": {
+  "personnages": [
+   3,
+   5,
+   6
+  ],
+  "hauteurs": [
+   -1,
+   -2,
+   -2
+  ]
+ },
+ "2": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "3": {
+  "personnages": [
+   2
+  ],
+  "hauteurs": [
+   2
+  ]
+ },
+ "4": {
+  "personnages": [
+   4,
+   8
+  ],
+  "hauteurs": [
+   0,
+   -3
+  ]
+ },
+ "5": {
+  "personnages": [
+   0
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "6": {
+  "personnages": [
+   1,
+   6
+  ],
+  "hauteurs": [
+   3,
+   -2
+  ]
+ },
+ "7": {
+  "personnages": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "hauteurs": [
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -2,
+   -1
+  ]
+ },
+ "8": {
+  "personnages": [
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "hauteurs": [
+   -1,
+   0,
+   -2,
+   -2,
+   -1
+  ]
+ },
+ "9": {
+  "personnages": [
+   4,
+   5,
+   7
+  ],
+  "hauteurs": [
+   0,
+   -2,
+   -1
+  ]
+ },
+ "10": {
+  "personnages": [
+   0
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "11": {
+  "personnages": [
+   4,
+   5
+  ],
+  "hauteurs": [
+   0,
+   -2
+  ]
+ },
+ "12": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "13": {
+  "personnages": [
+   0,
+   1,
+   2
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2
+  ]
+ },
+ "14": {
+  "personnages": [
+   0,
+   2,
+   3,
+   4,
+   5,
+   7
+  ],
+  "hauteurs": [
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -1
+  ]
+ },
+ "15": {
+  "personnages": [
+   0,
+   3,
+   8
+  ],
+  "hauteurs": [
+   3,
+   -1,
+   -3
+  ]
+ },
+ "16": {
+  "personnages": [
+   3,
+   6
+  ],
+  "hauteurs": [
+   -1,
+   -2
+  ]
+ },
+ "17": {
+  "personnages": [
+   7
+  ],
+  "hauteurs": [
+   -1
+  ]
+ },
+ "18": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "19": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   7
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -1
+  ]
+ },
+ "20": {
+  "personnages": [
+   1,
+   5,
+   6,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   -2,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "21": {
+  "personnages": [
+   2,
+   4,
+   5,
+   7
+  ],
+  "hauteurs": [
+   2,
+   0,
+   -2,
+   -1
+  ]
+ },
+ "22": {
+  "personnages": [
+   0,
+   1
+  ],
+  "hauteurs": [
+   3,
+   3
+  ]
+ },
+ "23": {
+  "personnages": [
+   2,
+   3,
+   5,
+   6,
+   7
+  ],
+  "hauteurs": [
+   2,
+   -1,
+   -2,
+   -2,
+   -1
+  ]
+ },
+ "24": {
+  "personnages": [
+   4
+  ],
+  "hauteurs": [
+   0
+  ]
+ },
+ "25": {
+  "personnages": [
+   8
+  ],
+  "hauteurs": [
+   -3
+  ]
+ },
+ "26": {
+  "personnages": [
+   0,
+   2
+  ],
+  "hauteurs": [
+   3,
+   2
+  ]
+ },
+ "27": {
+  "personnages": [
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "hauteurs": [
+   -1,
+   0,
+   -2,
+   -2,
+   -1
+  ]
+ },
+ "28": {
+  "personnages": [
+   3,
+   4,
+   6,
+   7
+  ],
+  "hauteurs": [
+   -1,
+   0,
+   -2,
+   -1
+  ]
+ },
+ "29": {
+  "personnages": [
+   5
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "30": {
+  "personnages": [
+   1,
+   2,
+   3,
+   8
+  ],
+  "hauteurs": [
+   3,
+   2,
+   -1,
+   -3
+  ]
+ },
+ "31": {
+  "personnages": [
+   3,
+   5
+  ],
+  "hauteurs": [
+   -1,
+   -2
+  ]
+ },
+ "32": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "33": {
+  "personnages": [
+   3
+  ],
+  "hauteurs": [
+   -1
+  ]
+ },
+ "34": {
+  "personnages": [
+   0,
+   6,
+   7
+  ],
+  "hauteurs": [
+   3,
+   -2,
+   -1
+  ]
+ },
+ "35": {
+  "personnages": [
+   1
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "36": {
+  "personnages": [
+   6
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "37": {
+  "personnages": [
+   1
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "38": {
+  "personnages": [
+   7,
+   8
+  ],
+  "hauteurs": [
+   -1,
+   -3
+  ]
+ },
+ "39": {
+  "personnages": [
+   0
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "40": {
+  "personnages": [
+   4
+  ],
+  "hauteurs": [
+   0
+  ]
+ },
+ "41": {
+  "personnages": [
+   0,
+   2,
+   4
+  ],
+  "hauteurs": [
+   3,
+   2,
+   0
+  ]
+ },
+ "42": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "43": {
+  "personnages": [
+   3,
+   6,
+   7
+  ],
+  "hauteurs": [
+   -1,
+   -2,
+   -1
+  ]
+ },
+ "44": {
+  "personnages": [
+   0,
+   1,
+   4,
+   5
+  ],
+  "hauteurs": [
+   3,
+   3,
+   0,
+   -2
+  ]
+ },
+ "45": {
+  "personnages": [
+   3,
+   7
+  ],
+  "hauteurs": [
+   -1,
+   -1
+  ]
+ },
+ "46": {
+  "personnages": [
+   1
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "47": {
+  "personnages": [
+   0,
+   2
+  ],
+  "hauteurs": [
+   3,
+   2
+  ]
+ },
+ "48": {
+  "personnages": [
+   4
+  ],
+  "hauteurs": [
+   0
+  ]
+ },
+ "49": {
+  "personnages": [
+   5
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "50": {
+  "personnages": [
+   1
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "51": {
+  "personnages": [
+   0,
+   1,
+   2
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2
+  ]
+ },
+ "52": {
+  "personnages": [
+   1
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "53": {
+  "personnages": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   0
+  ]
+ },
+ "54": {
+  "personnages": [
+   6
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "55": {
+  "personnages": [
+   3
+  ],
+  "hauteurs": [
+   -1
+  ]
+ },
+ "56": {
+  "personnages": [
+   2
+  ],
+  "hauteurs": [
+   2
+  ]
+ },
+ "57": {
+  "personnages": [
+   0
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "59": {
+  "personnages": [
+   0
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "60": {
+  "personnages": [
+   5
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "61": {
+  "personnages": [
+   3
+  ],
+  "hauteurs": [
+   -1
+  ]
+ },
+ "62": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   5,
+   6,
+   7
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   -2,
+   -2,
+   -1
+  ]
+ },
+ "63": {
+  "personnages": [
+   6
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "64": {
+  "personnages": [
+   7
+  ],
+  "hauteurs": [
+   -1
+  ]
+ },
+ "65": {
+  "personnages": [
+   3
+  ],
+  "hauteurs": [
+   -1
+  ]
+ },
+ "66": {
+  "personnages": [
+   0,
+   1
+  ],
+  "hauteurs": [
+   3,
+   3
+  ]
+ },
+ "67": {
+  "personnages": [
+   6,
+   7
+  ],
+  "hauteurs": [
+   -2,
+   -1
+  ]
+ },
+ "68": {
+  "personnages": [
+   1
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "69": {
+  "personnages": [
+   5
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "70": {
+  "personnages": [
+   4
+  ],
+  "hauteurs": [
+   0
+  ]
+ },
+ "71": {
+  "personnages": [
+   3
+  ],
+  "hauteurs": [
+   -1
+  ]
+ },
+ "72": {
+  "personnages": [
+   0,
+   7
+  ],
+  "hauteurs": [
+   3,
+   -1
+  ]
+ },
+ "73": {
+  "personnages": [
+   6,
+   7
+  ],
+  "hauteurs": [
+   -2,
+   -1
+  ]
+ },
+ "74": {
+  "personnages": [
+   0
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "75": {
+  "personnages": [
+   1,
+   2
+  ],
+  "hauteurs": [
+   3,
+   2
+  ]
+ },
+ "76": {
+  "personnages": [
+   0
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "77": {
+  "personnages": [
+   1,
+   2
+  ],
+  "hauteurs": [
+   3,
+   2
+  ]
+ },
+ "78": {
+  "personnages": [
+   3,
+   7
+  ],
+  "hauteurs": [
+   -1,
+   -1
+  ]
+ },
+ "79": {
+  "personnages": [
+   0,
+   2,
+   4,
+   7
+  ],
+  "hauteurs": [
+   3,
+   2,
+   0,
+   -1
+  ]
+ },
+ "80": {
+  "personnages": [
+   5
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "81": {
+  "personnages": [
+   6
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "82": {
+  "personnages": [
+   8
+  ],
+  "hauteurs": [
+   -3
+  ]
+ },
+ "83": {
+  "personnages": [
+   0,
+   1,
+   3
+  ],
+  "hauteurs": [
+   3,
+   3,
+   -1
+  ]
+ },
+ "84": {
+  "personnages": [
+   0,
+   1,
+   3,
+   4,
+   6,
+   7
+  ],
+  "hauteurs": [
+   3,
+   3,
+   -1,
+   0,
+   -2,
+   -1
+  ]
+ },
+ "85": {
+  "personnages": [
+   2
+  ],
+  "hauteurs": [
+   2
+  ]
+ },
+ "86": {
+  "personnages": [
+   4
+  ],
+  "hauteurs": [
+   0
+  ]
+ },
+ "87": {
+  "personnages": [
+   0,
+   1,
+   3,
+   5,
+   6,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   -1,
+   -2,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "88": {
+  "personnages": [
+   7
+  ],
+  "hauteurs": [
+   -1
+  ]
+ },
+ "89": {
+  "personnages": [
+   0,
+   2
+  ],
+  "hauteurs": [
+   3,
+   2
+  ]
+ },
+ "90": {
+  "personnages": [
+   2
+  ],
+  "hauteurs": [
+   2
+  ]
+ },
+ "91": {
+  "personnages": [
+   3
+  ],
+  "hauteurs": [
+   -1
+  ]
+ },
+ "92": {
+  "personnages": [
+   2,
+   3,
+   4,
+   6
+  ],
+  "hauteurs": [
+   2,
+   -1,
+   0,
+   -2
+  ]
+ },
+ "93": {
+  "personnages": [
+   6
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "94": {
+  "personnages": [
+   7,
+   8
+  ],
+  "hauteurs": [
+   -1,
+   -3
+  ]
+ },
+ "95": {
+  "personnages": [
+   0,
+   3
+  ],
+  "hauteurs": [
+   3,
+   -1
+  ]
+ },
+ "96": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   6,
+   7
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -1
+  ]
+ },
+ "97": {
+  "personnages": [
+   2,
+   7
+  ],
+  "hauteurs": [
+   2,
+   -1
+  ]
+ },
+ "98": {
+  "personnages": [
+   1
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "99": {
+  "personnages": [
+   4
+  ],
+  "hauteurs": [
+   0
+  ]
+ },
+ "100": {
+  "personnages": [
+   5
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "101": {
+  "personnages": [
+   3
+  ],
+  "hauteurs": [
+   -1
+  ]
+ },
+ "102": {
+  "personnages": [
+   5
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "103": {
+  "personnages": [
+   7
+  ],
+  "hauteurs": [
+   -1
+  ]
+ },
+ "104": {
+  "personnages": [
+   8
+  ],
+  "hauteurs": [
+   -3
+  ]
+ },
+ "105": {
+  "personnages": [
+   1
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "106": {
+  "personnages": [
+   7,
+   8
+  ],
+  "hauteurs": [
+   -1,
+   -3
+  ]
+ },
+ "107": {
+  "personnages": [
+   4
+  ],
+  "hauteurs": [
+   0
+  ]
+ },
+ "108": {
+  "personnages": [
+   5
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "109": {
+  "personnages": [
+   0,
+   1,
+   5
+  ],
+  "hauteurs": [
+   3,
+   3,
+   -2
+  ]
+ },
+ "110": {
+  "personnages": [
+   1
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "111": {
+  "personnages": [
+   2
+  ],
+  "hauteurs": [
+   2
+  ]
+ },
+ "112": {
+  "personnages": [
+   3
+  ],
+  "hauteurs": [
+   -1
+  ]
+ },
+ "113": {
+  "personnages": [
+   4,
+   6,
+   8
+  ],
+  "hauteurs": [
+   0,
+   -2,
+   -3
+  ]
+ },
+ "114": {
+  "personnages": [
+   6
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "115": {
+  "personnages": [
+   0,
+   6,
+   7
+  ],
+  "hauteurs": [
+   3,
+   -2,
+   -1
+  ]
+ },
+ "116": {
+  "personnages": [
+   8
+  ],
+  "hauteurs": [
+   -3
+  ]
+ },
+ "117": {
+  "personnages": [
+   2
+  ],
+  "hauteurs": [
+   2
+  ]
+ },
+ "118": {
+  "personnages": [
+   1
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "119": {
+  "personnages": [
+   1
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "120": {
+  "personnages": [
+   3
+  ],
+  "hauteurs": [
+   -1
+  ]
+ },
+ "121": {
+  "personnages": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "hauteurs": [
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -2
+  ]
+ },
+ "122": {
+  "personnages": [
+   7
+  ],
+  "hauteurs": [
+   -1
+  ]
+ },
+ "123": {
+  "personnages": [
+   8
+  ],
+  "hauteurs": [
+   -3
+  ]
+ },
+ "124": {
+  "personnages": [
+   0,
+   8
+  ],
+  "hauteurs": [
+   3,
+   -3
+  ]
+ },
+ "125": {
+  "personnages": [
+   1
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "126": {
+  "personnages": [
+   2,
+   6
+  ],
+  "hauteurs": [
+   2,
+   -2
+  ]
+ },
+ "127": {
+  "personnages": [
+   3
+  ],
+  "hauteurs": [
+   -1
+  ]
+ },
+ "128": {
+  "personnages": [
+   4
+  ],
+  "hauteurs": [
+   0
+  ]
+ },
+ "129": {
+  "personnages": [
+   7
+  ],
+  "hauteurs": [
+   -1
+  ]
+ },
+ "130": {
+  "personnages": [
+   8
+  ],
+  "hauteurs": [
+   -3
+  ]
+ },
+ "131": {
+  "personnages": [
+   0,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "hauteurs": [
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -2,
+   -1
+  ]
+ },
+ "132": {
+  "personnages": [
+   8
+  ],
+  "hauteurs": [
+   -3
+  ]
+ },
+ "133": {
+  "personnages": [
+   4,
+   5,
+   6
+  ],
+  "hauteurs": [
+   0,
+   -2,
+   -2
+  ]
+ },
+ "134": {
+  "personnages": [
+   5
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "135": {
+  "personnages": [
+   5,
+   6
+  ],
+  "hauteurs": [
+   -2,
+   -2
+  ]
+ },
+ "136": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "137": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "138": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "139": {
+  "personnages": [
+   2,
+   4
+  ],
+  "hauteurs": [
+   2,
+   0
+  ]
+ },
+ "140": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -2,
+   -1
+  ]
+ },
+ "141": {
+  "personnages": [
+   0,
+   1,
+   2,
+   5,
+   6
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -2,
+   -2
+  ]
+ },
+ "142": {
+  "personnages": [
+   3,
+   4,
+   5
+  ],
+  "hauteurs": [
+   -1,
+   0,
+   -2
+  ]
+ },
+ "143": {
+  "personnages": [
+   0
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "144": {
+  "personnages": [
+   4,
+   7
+  ],
+  "hauteurs": [
+   0,
+   -1
+  ]
+ },
+ "145": {
+  "personnages": [
+   2
+  ],
+  "hauteurs": [
+   2
+  ]
+ },
+ "146": {
+  "personnages": [
+   2,
+   3
+  ],
+  "hauteurs": [
+   2,
+   -1
+  ]
+ },
+ "147": {
+  "personnages": [
+   8
+  ],
+  "hauteurs": [
+   -3
+  ]
+ },
+ "148": {
+  "personnages": [
+   5
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "149": {
+  "personnages": [
+   4
+  ],
+  "hauteurs": [
+   0
+  ]
+ },
+ "150": {
+  "personnages": [
+   0
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "151": {
+  "personnages": [
+   1,
+   6
+  ],
+  "hauteurs": [
+   3,
+   -2
+  ]
+ },
+ "152": {
+  "personnages": [
+   4
+  ],
+  "hauteurs": [
+   0
+  ]
+ },
+ "153": {
+  "personnages": [
+   7
+  ],
+  "hauteurs": [
+   -1
+  ]
+ },
+ "154": {
+  "personnages": [
+   0,
+   1,
+   6,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   -2,
+   -3
+  ]
+ },
+ "155": {
+  "personnages": [
+   1
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "156": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1
+  ]
+ },
+ "157": {
+  "personnages": [
+   1,
+   3,
+   4,
+   6
+  ],
+  "hauteurs": [
+   3,
+   -1,
+   0,
+   -2
+  ]
+ },
+ "158": {
+  "personnages": [
+   0,
+   7
+  ],
+  "hauteurs": [
+   3,
+   -1
+  ]
+ },
+ "159": {
+  "personnages": [
+   5
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "160": {
+  "personnages": [
+   0
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "161": {
+  "personnages": [
+   1,
+   2,
+   7
+  ],
+  "hauteurs": [
+   3,
+   2,
+   -1
+  ]
+ },
+ "162": {
+  "personnages": [
+   3
+  ],
+  "hauteurs": [
+   -1
+  ]
+ },
+ "163": {
+  "personnages": [
+   4
+  ],
+  "hauteurs": [
+   0
+  ]
+ },
+ "164": {
+  "personnages": [
+   5,
+   6
+  ],
+  "hauteurs": [
+   -2,
+   -2
+  ]
+ },
+ "165": {
+  "personnages": [
+   5
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "166": {
+  "personnages": [
+   8
+  ],
+  "hauteurs": [
+   -3
+  ]
+ },
+ "167": {
+  "personnages": [
+   0
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "168": {
+  "personnages": [
+   0
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "169": {
+  "personnages": [
+   7
+  ],
+  "hauteurs": [
+   -1
+  ]
+ },
+ "170": {
+  "personnages": [
+   0,
+   4
+  ],
+  "hauteurs": [
+   3,
+   0
+  ]
+ },
+ "171": {
+  "personnages": [
+   0,
+   1,
+   3,
+   6
+  ],
+  "hauteurs": [
+   3,
+   3,
+   -1,
+   -2
+  ]
+ },
+ "172": {
+  "personnages": [
+   2
+  ],
+  "hauteurs": [
+   2
+  ]
+ },
+ "173": {
+  "personnages": [
+   3,
+   5
+  ],
+  "hauteurs": [
+   -1,
+   -2
+  ]
+ },
+ "174": {
+  "personnages": [
+   0,
+   4,
+   7
+  ],
+  "hauteurs": [
+   3,
+   0,
+   -1
+  ]
+ },
+ "175": {
+  "personnages": [
+   5
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "176": {
+  "personnages": [
+   6
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "177": {
+  "personnages": [
+   7
+  ],
+  "hauteurs": [
+   -1
+  ]
+ },
+ "178": {
+  "personnages": [
+   0,
+   6
+  ],
+  "hauteurs": [
+   3,
+   -2
+  ]
+ },
+ "179": {
+  "personnages": [
+   1
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "180": {
+  "personnages": [
+   2,
+   7
+  ],
+  "hauteurs": [
+   2,
+   -1
+  ]
+ },
+ "181": {
+  "personnages": [
+   2,
+   3
+  ],
+  "hauteurs": [
+   2,
+   -1
+  ]
+ },
+ "182": {
+  "personnages": [
+   4
+  ],
+  "hauteurs": [
+   0
+  ]
+ },
+ "183": {
+  "personnages": [
+   0,
+   1,
+   2,
+   4,
+   5,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   0,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "184": {
+  "personnages": [
+   0
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "185": {
+  "personnages": [
+   0,
+   1
+  ],
+  "hauteurs": [
+   3,
+   3
+  ]
+ },
+ "186": {
+  "personnages": [
+   2
+  ],
+  "hauteurs": [
+   2
+  ]
+ },
+ "187": {
+  "personnages": [
+   3
+  ],
+  "hauteurs": [
+   -1
+  ]
+ },
+ "188": {
+  "personnages": [
+   6
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "189": {
+  "personnages": [
+   4,
+   7
+  ],
+  "hauteurs": [
+   0,
+   -1
+  ]
+ },
+ "190": {
+  "personnages": [
+   8
+  ],
+  "hauteurs": [
+   -3
+  ]
+ },
+ "191": {
+  "personnages": [
+   0
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "192": {
+  "personnages": [
+   4
+  ],
+  "hauteurs": [
+   0
+  ]
+ },
+ "193": {
+  "personnages": [
+   2
+  ],
+  "hauteurs": [
+   2
+  ]
+ },
+ "194": {
+  "personnages": [
+   6
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "195": {
+  "personnages": [
+   1
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "196": {
+  "personnages": [
+   5
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "197": {
+  "personnages": [
+   3
+  ],
+  "hauteurs": [
+   -1
+  ]
+ },
+ "198": {
+  "personnages": [
+   7
+  ],
+  "hauteurs": [
+   -1
+  ]
+ },
+ "199": {
+  "personnages": [
+   8
+  ],
+  "hauteurs": [
+   -3
+  ]
+ },
+ "200": {
+  "personnages": [
+   4
+  ],
+  "hauteurs": [
+   0
+  ]
+ },
+ "201": {
+  "personnages": [
+   5
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "202": {
+  "personnages": [
+   0,
+   5,
+   6
+  ],
+  "hauteurs": [
+   3,
+   -2,
+   -2
+  ]
+ },
+ "203": {
+  "personnages": [
+   4,
+   5
+  ],
+  "hauteurs": [
+   0,
+   -2
+  ]
+ },
+ "204": {
+  "personnages": [
+   0,
+   7
+  ],
+  "hauteurs": [
+   3,
+   -1
+  ]
+ },
+ "205": {
+  "personnages": [
+   6
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "206": {
+  "personnages": [
+   6
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "207": {
+  "personnages": [
+   6
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "208": {
+  "personnages": [
+   7
+  ],
+  "hauteurs": [
+   -1
+  ]
+ },
+ "209": {
+  "personnages": [
+   3,
+   4
+  ],
+  "hauteurs": [
+   -1,
+   0
+  ]
+ },
+ "210": {
+  "personnages": [
+   5
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "211": {
+  "personnages": [
+   1,
+   6
+  ],
+  "hauteurs": [
+   3,
+   -2
+  ]
+ },
+ "212": {
+  "personnages": [
+   2
+  ],
+  "hauteurs": [
+   2
+  ]
+ },
+ "213": {
+  "personnages": [
+   3
+  ],
+  "hauteurs": [
+   -1
+  ]
+ },
+ "214": {
+  "personnages": [
+   0
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "215": {
+  "personnages": [
+   5
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "216": {
+  "personnages": [
+   1,
+   2,
+   3,
+   7
+  ],
+  "hauteurs": [
+   3,
+   2,
+   -1,
+   -1
+  ]
+ },
+ "217": {
+  "personnages": [
+   4,
+   7
+  ],
+  "hauteurs": [
+   0,
+   -1
+  ]
+ },
+ "218": {
+  "personnages": [
+   8
+  ],
+  "hauteurs": [
+   -3
+  ]
+ },
+ "219": {
+  "personnages": [
+   0
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "220": {
+  "personnages": [
+   1
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "221": {
+  "personnages": [
+   3
+  ],
+  "hauteurs": [
+   -1
+  ]
+ },
+ "222": {
+  "personnages": [
+   1
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "223": {
+  "personnages": [
+   2,
+   3,
+   4,
+   5,
+   7
+  ],
+  "hauteurs": [
+   2,
+   -1,
+   0,
+   -2,
+   -1
+  ]
+ },
+ "224": {
+  "personnages": [
+   5
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "225": {
+  "personnages": [
+   1,
+   3,
+   4,
+   6
+  ],
+  "hauteurs": [
+   3,
+   -1,
+   0,
+   -2
+  ]
+ },
+ "226": {
+  "personnages": [
+   8
+  ],
+  "hauteurs": [
+   -3
+  ]
+ },
+ "227": {
+  "personnages": [
+   0
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "228": {
+  "personnages": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "hauteurs": [
+   3,
+   2,
+   -1,
+   0
+  ]
+ },
+ "229": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "230": {
+  "personnages": [
+   2
+  ],
+  "hauteurs": [
+   2
+  ]
+ },
+ "231": {
+  "personnages": [
+   3
+  ],
+  "hauteurs": [
+   -1
+  ]
+ },
+ "232": {
+  "personnages": [
+   1,
+   2,
+   6,
+   7
+  ],
+  "hauteurs": [
+   3,
+   2,
+   -2,
+   -1
+  ]
+ },
+ "233": {
+  "personnages": [
+   5
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "234": {
+  "personnages": [
+   0
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "235": {
+  "personnages": [
+   3
+  ],
+  "hauteurs": [
+   -1
+  ]
+ },
+ "236": {
+  "personnages": [
+   2
+  ],
+  "hauteurs": [
+   2
+  ]
+ },
+ "237": {
+  "personnages": [
+   0,
+   3
+  ],
+  "hauteurs": [
+   3,
+   -1
+  ]
+ },
+ "238": {
+  "personnages": [
+   4
+  ],
+  "hauteurs": [
+   0
+  ]
+ },
+ "239": {
+  "personnages": [
+   5
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "240": {
+  "personnages": [
+   0,
+   1,
+   3,
+   4,
+   6,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   -1,
+   0,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "241": {
+  "personnages": [
+   8
+  ],
+  "hauteurs": [
+   -3
+  ]
+ },
+ "242": {
+  "personnages": [
+   0,
+   2,
+   4
+  ],
+  "hauteurs": [
+   3,
+   2,
+   0
+  ]
+ },
+ "243": {
+  "personnages": [
+   1,
+   2,
+   3,
+   6,
+   7
+  ],
+  "hauteurs": [
+   3,
+   2,
+   -1,
+   -2,
+   -1
+  ]
+ },
+ "245": {
+  "personnages": [
+   2,
+   7
+  ],
+  "hauteurs": [
+   2,
+   -1
+  ]
+ },
+ "246": {
+  "personnages": [
+   3
+  ],
+  "hauteurs": [
+   -1
+  ]
+ },
+ "247": {
+  "personnages": [
+   7
+  ],
+  "hauteurs": [
+   -1
+  ]
+ },
+ "248": {
+  "personnages": [
+   5,
+   8
+  ],
+  "hauteurs": [
+   -2,
+   -3
+  ]
+ },
+ "249": {
+  "personnages": [
+   6
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "250": {
+  "personnages": [
+   1,
+   3,
+   5
+  ],
+  "hauteurs": [
+   3,
+   -1,
+   -2
+  ]
+ },
+ "251": {
+  "personnages": [
+   2
+  ],
+  "hauteurs": [
+   2
+  ]
+ },
+ "252": {
+  "personnages": [
+   5
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "253": {
+  "personnages": [
+   4
+  ],
+  "hauteurs": [
+   0
+  ]
+ },
+ "254": {
+  "personnages": [
+   6
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "255": {
+  "personnages": [
+   0,
+   7
+  ],
+  "hauteurs": [
+   3,
+   -1
+  ]
+ },
+ "256": {
+  "personnages": [
+   8
+  ],
+  "hauteurs": [
+   -3
+  ]
+ },
+ "257": {
+  "personnages": [
+   0
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "258": {
+  "personnages": [
+   1,
+   6
+  ],
+  "hauteurs": [
+   3,
+   -2
+  ]
+ },
+ "259": {
+  "personnages": [
+   1,
+   6
+  ],
+  "hauteurs": [
+   3,
+   -2
+  ]
+ },
+ "260": {
+  "personnages": [
+   3,
+   6
+  ],
+  "hauteurs": [
+   -1,
+   -2
+  ]
+ },
+ "261": {
+  "personnages": [
+   3,
+   5
+  ],
+  "hauteurs": [
+   -1,
+   -2
+  ]
+ },
+ "262": {
+  "personnages": [
+   0,
+   2,
+   5
+  ],
+  "hauteurs": [
+   3,
+   2,
+   -2
+  ]
+ },
+ "263": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "264": {
+  "personnages": [
+   4,
+   7
+  ],
+  "hauteurs": [
+   0,
+   -1
+  ]
+ },
+ "265": {
+  "personnages": [
+   0,
+   4,
+   7
+  ],
+  "hauteurs": [
+   3,
+   0,
+   -1
+  ]
+ },
+ "266": {
+  "personnages": [
+   0,
+   4
+  ],
+  "hauteurs": [
+   3,
+   0
+  ]
+ },
+ "267": {
+  "personnages": [
+   4
+  ],
+  "hauteurs": [
+   0
+  ]
+ },
+ "268": {
+  "personnages": [
+   3,
+   5
+  ],
+  "hauteurs": [
+   -1,
+   -2
+  ]
+ },
+ "269": {
+  "personnages": [
+   6
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "270": {
+  "personnages": [
+   2
+  ],
+  "hauteurs": [
+   2
+  ]
+ },
+ "271": {
+  "personnages": [
+   3
+  ],
+  "hauteurs": [
+   -1
+  ]
+ },
+ "272": {
+  "personnages": [
+   0
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "273": {
+  "personnages": [
+   1,
+   4
+  ],
+  "hauteurs": [
+   3,
+   0
+  ]
+ },
+ "274": {
+  "personnages": [
+   2,
+   3
+  ],
+  "hauteurs": [
+   2,
+   -1
+  ]
+ },
+ "275": {
+  "personnages": [
+   4
+  ],
+  "hauteurs": [
+   0
+  ]
+ },
+ "276": {
+  "personnages": [
+   5
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "277": {
+  "personnages": [
+   5
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "278": {
+  "personnages": [
+   6,
+   7
+  ],
+  "hauteurs": [
+   -2,
+   -1
+  ]
+ },
+ "279": {
+  "personnages": [
+   6,
+   7
+  ],
+  "hauteurs": [
+   -2,
+   -1
+  ]
+ },
+ "280": {
+  "personnages": [
+   0,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "hauteurs": [
+   3,
+   -1,
+   0,
+   -2,
+   -2,
+   -1
+  ]
+ },
+ "281": {
+  "personnages": [
+   0,
+   7
+  ],
+  "hauteurs": [
+   3,
+   -1
+  ]
+ },
+ "282": {
+  "personnages": [
+   2,
+   4
+  ],
+  "hauteurs": [
+   2,
+   0
+  ]
+ },
+ "283": {
+  "personnages": [
+   1
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "284": {
+  "personnages": [
+   1,
+   2,
+   8
+  ],
+  "hauteurs": [
+   3,
+   2,
+   -3
+  ]
+ },
+ "285": {
+  "personnages": [
+   0,
+   1,
+   2,
+   4,
+   6,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   0,
+   -2,
+   -3
+  ]
+ },
+ "286": {
+  "personnages": [
+   6
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "287": {
+  "personnages": [
+   2,
+   7,
+   8
+  ],
+  "hauteurs": [
+   2,
+   -1,
+   -3
+  ]
+ },
+ "288": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "289": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "290": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "291": {
+  "personnages": [
+   7
+  ],
+  "hauteurs": [
+   -1
+  ]
+ },
+ "292": {
+  "personnages": [
+   0,
+   1
+  ],
+  "hauteurs": [
+   3,
+   3
+  ]
+ },
+ "293": {
+  "personnages": [
+   1
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "294": {
+  "personnages": [
+   2
+  ],
+  "hauteurs": [
+   2
+  ]
+ },
+ "295": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "296": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "297": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "298": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "300": {
+  "personnages": [
+   5,
+   6
+  ],
+  "hauteurs": [
+   -2,
+   -2
+  ]
+ },
+ "301": {
+  "personnages": [
+   2
+  ],
+  "hauteurs": [
+   2
+  ]
+ },
+ "302": {
+  "personnages": [
+   0
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "303": {
+  "personnages": [
+   2
+  ],
+  "hauteurs": [
+   2
+  ]
+ },
+ "304": {
+  "personnages": [
+   6
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "305": {
+  "personnages": [
+   6
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "306": {
+  "personnages": [
+   2
+  ],
+  "hauteurs": [
+   2
+  ]
+ },
+ "307": {
+  "personnages": [
+   6
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "308": {
+  "personnages": [
+   5
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "309": {
+  "personnages": [
+   2
+  ],
+  "hauteurs": [
+   2
+  ]
+ },
+ "310": {
+  "personnages": [
+   5
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "311": {
+  "personnages": [
+   1
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "312": {
+  "personnages": [
+   8
+  ],
+  "hauteurs": [
+   -3
+  ]
+ },
+ "313": {
+  "personnages": [
+   6
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "314": {
+  "personnages": [
+   2,
+   6
+  ],
+  "hauteurs": [
+   2,
+   -2
+  ]
+ },
+ "315": {
+  "personnages": [
+   2
+  ],
+  "hauteurs": [
+   2
+  ]
+ },
+ "316": {
+  "personnages": [
+   0
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "317": {
+  "personnages": [
+   2
+  ],
+  "hauteurs": [
+   2
+  ]
+ },
+ "318": {
+  "personnages": [
+   3
+  ],
+  "hauteurs": [
+   -1
+  ]
+ },
+ "319": {
+  "personnages": [
+   2
+  ],
+  "hauteurs": [
+   2
+  ]
+ },
+ "320": {
+  "personnages": [
+   5
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "321": {
+  "personnages": [
+   2
+  ],
+  "hauteurs": [
+   2
+  ]
+ },
+ "322": {
+  "personnages": [
+   2
+  ],
+  "hauteurs": [
+   2
+  ]
+ },
+ "323": {
+  "personnages": [
+   3
+  ],
+  "hauteurs": [
+   -1
+  ]
+ },
+ "324": {
+  "personnages": [
+   2
+  ],
+  "hauteurs": [
+   2
+  ]
+ },
+ "325": {
+  "personnages": [
+   1,
+   2
+  ],
+  "hauteurs": [
+   3,
+   2
+  ]
+ },
+ "326": {
+  "personnages": [
+   0,
+   1
+  ],
+  "hauteurs": [
+   3,
+   3
+  ]
+ },
+ "327": {
+  "personnages": [
+   1
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "328": {
+  "personnages": [
+   1
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "329": {
+  "personnages": [
+   4
+  ],
+  "hauteurs": [
+   0
+  ]
+ },
+ "330": {
+  "personnages": [
+   8
+  ],
+  "hauteurs": [
+   -3
+  ]
+ },
+ "331": {
+  "personnages": [
+   8
+  ],
+  "hauteurs": [
+   -3
+  ]
+ },
+ "332": {
+  "personnages": [
+   6
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "333": {
+  "personnages": [
+   6
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "334": {
+  "personnages": [
+   6
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "335": {
+  "personnages": [
+   1,
+   4
+  ],
+  "hauteurs": [
+   3,
+   0
+  ]
+ },
+ "336": {
+  "personnages": [
+   3
+  ],
+  "hauteurs": [
+   -1
+  ]
+ },
+ "337": {
+  "personnages": [
+   8
+  ],
+  "hauteurs": [
+   -3
+  ]
+ },
+ "338": {
+  "personnages": [
+   2
+  ],
+  "hauteurs": [
+   2
+  ]
+ },
+ "339": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "340": {
+  "personnages": [
+   6
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "341": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "342": {
+  "personnages": [
+   2
+  ],
+  "hauteurs": [
+   2
+  ]
+ },
+ "343": {
+  "personnages": [
+   6
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "344": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "345": {
+  "personnages": [
+   2
+  ],
+  "hauteurs": [
+   2
+  ]
+ },
+ "346": {
+  "personnages": [
+   6
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "347": {
+  "personnages": [
+   6
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "348": {
+  "personnages": [
+   2
+  ],
+  "hauteurs": [
+   2
+  ]
+ },
+ "349": {
+  "personnages": [
+   6
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "350": {
+  "personnages": [
+   0,
+   2,
+   3,
+   4,
+   5,
+   8
+  ],
+  "hauteurs": [
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -3
+  ]
+ },
+ "351": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "352": {
+  "personnages": [
+   2,
+   7
+  ],
+  "hauteurs": [
+   2,
+   -1
+  ]
+ },
+ "353": {
+  "personnages": [
+   4
+  ],
+  "hauteurs": [
+   0
+  ]
+ },
+ "354": {
+  "personnages": [
+   5
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "355": {
+  "personnages": [
+   3
+  ],
+  "hauteurs": [
+   -1
+  ]
+ },
+ "356": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "358": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "359": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "360": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "361": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "362": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "363": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "364": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "365": {
+  "personnages": [
+   4
+  ],
+  "hauteurs": [
+   0
+  ]
+ },
+ "366": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "367": {
+  "personnages": [
+   0
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "368": {
+  "personnages": [
+   1
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "369": {
+  "personnages": [
+   2
+  ],
+  "hauteurs": [
+   2
+  ]
+ },
+ "370": {
+  "personnages": [
+   3
+  ],
+  "hauteurs": [
+   -1
+  ]
+ },
+ "371": {
+  "personnages": [
+   4
+  ],
+  "hauteurs": [
+   0
+  ]
+ },
+ "372": {
+  "personnages": [
+   5
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "373": {
+  "personnages": [
+   6
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "374": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "375": {
+  "personnages": [
+   8
+  ],
+  "hauteurs": [
+   -3
+  ]
+ },
+ "376": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "377": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "378": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "379": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "380": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "381": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "382": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "383": {
+  "personnages": [
+   4,
+   8
+  ],
+  "hauteurs": [
+   0,
+   -3
+  ]
+ },
+ "384": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "385": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1
+  ]
+ },
+ "386": {
+  "personnages": [
+   5
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "387": {
+  "personnages": [
+   5,
+   6
+  ],
+  "hauteurs": [
+   -2,
+   -2
+  ]
+ },
+ "388": {
+  "personnages": [
+   0,
+   2,
+   7
+  ],
+  "hauteurs": [
+   3,
+   2,
+   -1
+  ]
+ },
+ "389": {
+  "personnages": [
+   0,
+   1,
+   3,
+   6
+  ],
+  "hauteurs": [
+   3,
+   3,
+   -1,
+   -2
+  ]
+ },
+ "390": {
+  "personnages": [
+   3
+  ],
+  "hauteurs": [
+   -1
+  ]
+ },
+ "391": {
+  "personnages": [
+   0,
+   2,
+   3,
+   6
+  ],
+  "hauteurs": [
+   3,
+   2,
+   -1,
+   -2
+  ]
+ },
+ "392": {
+  "personnages": [
+   6
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "393": {
+  "personnages": [
+   6,
+   7
+  ],
+  "hauteurs": [
+   -2,
+   -1
+  ]
+ },
+ "394": {
+  "personnages": [
+   1,
+   8
+  ],
+  "hauteurs": [
+   3,
+   -3
+  ]
+ },
+ "395": {
+  "personnages": [
+   5
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "396": {
+  "personnages": [
+   0
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "397": {
+  "personnages": [
+   3,
+   4,
+   6
+  ],
+  "hauteurs": [
+   -1,
+   0,
+   -2
+  ]
+ },
+ "398": {
+  "personnages": [
+   2
+  ],
+  "hauteurs": [
+   2
+  ]
+ },
+ "399": {
+  "personnages": [
+   3,
+   7
+  ],
+  "hauteurs": [
+   -1,
+   -1
+  ]
+ },
+ "400": {
+  "personnages": [
+   0,
+   1,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   -1,
+   -3
+  ]
+ },
+ "401": {
+  "personnages": [
+   4
+  ],
+  "hauteurs": [
+   0
+  ]
+ },
+ "402": {
+  "personnages": [
+   0,
+   1
+  ],
+  "hauteurs": [
+   3,
+   3
+  ]
+ },
+ "403": {
+  "personnages": [
+   3
+  ],
+  "hauteurs": [
+   -1
+  ]
+ },
+ "404": {
+  "personnages": [
+   4,
+   7
+  ],
+  "hauteurs": [
+   0,
+   -1
+  ]
+ },
+ "405": {
+  "personnages": [
+   0,
+   1,
+   2
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2
+  ]
+ },
+ "406": {
+  "personnages": [
+   3,
+   5,
+   7,
+   8
+  ],
+  "hauteurs": [
+   -1,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "407": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "408": {
+  "personnages": [
+   2
+  ],
+  "hauteurs": [
+   2
+  ]
+ },
+ "409": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "410": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "411": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "412": {
+  "personnages": [
+   0,
+   1,
+   2,
+   4,
+   5,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   0,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "413": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "414": {
+  "personnages": [
+   0,
+   3,
+   4,
+   5,
+   6,
+   8
+  ],
+  "hauteurs": [
+   3,
+   -1,
+   0,
+   -2,
+   -2,
+   -3
+  ]
+ },
+ "415": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   6,
+   7
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -1
+  ]
+ },
+ "416": {
+  "personnages": [
+   1,
+   2,
+   3,
+   5,
+   6
+  ],
+  "hauteurs": [
+   3,
+   2,
+   -1,
+   -2,
+   -2
+  ]
+ },
+ "417": {
+  "personnages": [
+   0,
+   1,
+   2,
+   4,
+   6,
+   7
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   0,
+   -2,
+   -1
+  ]
+ },
+ "418": {
+  "personnages": [
+   0,
+   2,
+   6,
+   7
+  ],
+  "hauteurs": [
+   3,
+   2,
+   -2,
+   -1
+  ]
+ },
+ "419": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   6,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   -2,
+   -3
+  ]
+ },
+ "420": {
+  "personnages": [
+   1,
+   2
+  ],
+  "hauteurs": [
+   3,
+   2
+  ]
+ },
+ "421": {
+  "personnages": [
+   4,
+   6
+  ],
+  "hauteurs": [
+   0,
+   -2
+  ]
+ },
+ "422": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   6,
+   7,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   -2,
+   -1,
+   -3
+  ]
+ },
+ "423": {
+  "personnages": [
+   1,
+   2,
+   3,
+   6,
+   8
+  ],
+  "hauteurs": [
+   3,
+   2,
+   -1,
+   -2,
+   -3
+  ]
+ },
+ "424": {
+  "personnages": [
+   2,
+   3,
+   6
+  ],
+  "hauteurs": [
+   2,
+   -1,
+   -2
+  ]
+ },
+ "425": {
+  "personnages": [
+   0,
+   7
+  ],
+  "hauteurs": [
+   3,
+   -1
+  ]
+ },
+ "426": {
+  "personnages": [
+   0,
+   1,
+   7
+  ],
+  "hauteurs": [
+   3,
+   3,
+   -1
+  ]
+ },
+ "427": {
+  "personnages": [
+   0,
+   2
+  ],
+  "hauteurs": [
+   3,
+   2
+  ]
+ },
+ "428": {
+  "personnages": [
+   0,
+   1
+  ],
+  "hauteurs": [
+   3,
+   3
+  ]
+ },
+ "430": {
+  "personnages": [
+   3,
+   4
+  ],
+  "hauteurs": [
+   -1,
+   0
+  ]
+ },
+ "431": {
+  "personnages": [
+   3,
+   4
+  ],
+  "hauteurs": [
+   -1,
+   0
+  ]
+ },
+ "432": {
+  "personnages": [
+   0,
+   1
+  ],
+  "hauteurs": [
+   3,
+   3
+  ]
+ },
+ "433": {
+  "personnages": [
+   0,
+   1
+  ],
+  "hauteurs": [
+   3,
+   3
+  ]
+ },
+ "434": {
+  "personnages": [
+   6
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "435": {
+  "personnages": [
+   4
+  ],
+  "hauteurs": [
+   0
+  ]
+ },
+ "436": {
+  "personnages": [
+   3
+  ],
+  "hauteurs": [
+   -1
+  ]
+ },
+ "437": {
+  "personnages": [
+   4
+  ],
+  "hauteurs": [
+   0
+  ]
+ },
+ "438": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   6,
+   8
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   -2,
+   -3
+  ]
+ },
+ "439": {
+  "personnages": [
+   2,
+   4,
+   6,
+   7
+  ],
+  "hauteurs": [
+   2,
+   0,
+   -2,
+   -1
+  ]
+ },
+ "440": {
+  "personnages": [
+   5
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "441": {
+  "personnages": [
+   0,
+   1,
+   3
+  ],
+  "hauteurs": [
+   3,
+   3,
+   -1
+  ]
+ },
+ "442": {
+  "personnages": [
+   0
+  ],
+  "hauteurs": [
+   3
+  ]
+ },
+ "443": {
+  "personnages": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   7
+  ],
+  "hauteurs": [
+   3,
+   3,
+   2,
+   -1,
+   0,
+   -2,
+   -1
+  ]
+ },
+ "444": {
+  "personnages": [
+   1,
+   2,
+   6
+  ],
+  "hauteurs": [
+   3,
+   2,
+   -2
+  ]
+ },
+ "445": {
+  "personnages": [
+   6,
+   7
+  ],
+  "hauteurs": [
+   -2,
+   -1
+  ]
+ },
+ "446": {
+  "personnages": [
+   3
+  ],
+  "hauteurs": [
+   -1
+  ]
+ },
+ "447": {
+  "personnages": [
+   6
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "448": {
+  "personnages": [
+   6
+  ],
+  "hauteurs": [
+   -2
+  ]
+ },
+ "449": {
+  "personnages": [
+   1,
+   2,
+   3,
+   7
+  ],
+  "hauteurs": [
+   3,
+   2,
+   -1,
+   -1
+  ]
+ }
+}

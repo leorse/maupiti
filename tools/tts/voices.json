@@ -1,0 +1,72 @@
+{
+  "_doc": "Voix et styles d'intonation proposés au choix (tools/tts/variants.py). Chaque voix indique son moteur ; chaque moteur a ses styles. null = valeur par défaut du modèle.",
+
+  "engines": {
+    "piper": {"styles": [
+      {"id": "neutre",    "label": "neutre",    "noise_scale": null, "noise_w": null, "length_scale": null},
+      {"id": "expressif", "label": "expressif", "noise_scale": 0.95, "noise_w": 1.1,  "length_scale": 1.05}
+    ]},
+    "xtts": {"styles": [
+      {"id": "neutre",    "label": "neutre",    "temperature": 0.65},
+      {"id": "expressif", "label": "expressif", "temperature": 0.9}
+    ]},
+    "qwen": {"styles": [
+      {"id": "neutre", "label": "neutre", "temperature": 0.9},
+      {"id": "dirige", "label": "dirigé", "temperature": 0.9, "direct": true}
+    ]},
+    "pocket": {"styles": [
+      {"id": "neutre",    "label": "neutre",    "temperature": 0.3},
+      {"id": "expressif", "label": "expressif", "temperature": 0.7}
+    ]},
+    "chatterbox": {"styles": [
+      {"id": "neutre",    "label": "neutre",    "exaggeration": 0.5, "cfg_weight": 0.5},
+      {"id": "expressif", "label": "expressif", "exaggeration": 0.85, "cfg_weight": 0.35}
+    ]}
+  },
+
+  "voices": [
+    {"id": "siwis",   "label": "Piper Siwis (F)",   "engine": "piper", "model": "fr_FR-siwis-medium", "speaker": null},
+    {"id": "jessica", "label": "Piper Jessica (F)", "engine": "piper", "model": "fr_FR-upmc-medium",  "speaker": 0},
+    {"id": "pierre",  "label": "Piper Pierre (H)",  "engine": "piper", "model": "fr_FR-upmc-medium",  "speaker": 1},
+    {"id": "gilles",  "label": "Piper Gilles (H)",  "engine": "piper", "model": "fr_FR-gilles-low",   "speaker": null},
+
+    {"id": "xt_ana",      "label": "XTTS Ana (F)",      "engine": "xtts", "speaker": "Ana Florence"},
+    {"id": "xt_claribel", "label": "XTTS Claribel (F)", "engine": "xtts", "speaker": "Claribel Dervla"},
+    {"id": "xt_damien",   "label": "XTTS Damien (H)",   "engine": "xtts", "speaker": "Damien Black"},
+    {"id": "xt_viktor",   "label": "XTTS Viktor (H)",   "engine": "xtts", "speaker": "Viktor Menelaos"},
+
+    {"id": "qw_ryan",   "label": "Qwen Ryan (H)",   "engine": "qwen", "mode": "custom", "speaker": "Ryan"},
+    {"id": "qw_serena", "label": "Qwen Serena (F)", "engine": "qwen", "mode": "custom", "speaker": "Serena"},
+    {"id": "qw_vieux",  "label": "Qwen vieux (H)",  "engine": "qwen", "mode": "design",
+     "instruct": "A man in his sixties, native French speaker, deep warm and slightly gravelly voice, calm, a little world-weary, unhurried"},
+    {"id": "qw_homme",  "label": "Qwen homme (H)",  "engine": "qwen", "mode": "design",
+     "instruct": "A man in his forties, native French speaker, firm energetic baritone, a bit gruff and blunt"},
+    {"id": "qw_femme",  "label": "Qwen femme (F)",  "engine": "qwen", "mode": "design",
+     "instruct": "A woman in her thirties, native French speaker, warm lively and slightly husky voice, confident and teasing"},
+    {"id": "qw_jeune",  "label": "Qwen jeune (F)",  "engine": "qwen", "mode": "design",
+     "instruct": "A young woman around twenty, native French speaker, bright clear voice, a little nervous and emotional"},
+    {"id": "qc_vieux", "label": "Qwen stable vieux (H)", "engine": "qwen", "mode": "clone", "ref": "qw_vieux", "styles": ["neutre"]},
+    {"id": "qc_homme", "label": "Qwen stable homme (H)", "engine": "qwen", "mode": "clone", "ref": "qw_homme", "styles": ["neutre"]},
+    {"id": "qc_femme", "label": "Qwen stable femme (F)", "engine": "qwen", "mode": "clone", "ref": "qw_femme", "styles": ["neutre"]},
+    {"id": "qc_jeune", "label": "Qwen stable jeune (F)", "engine": "qwen", "mode": "clone", "ref": "qw_jeune", "styles": ["neutre"]},
+
+    {"id": "pk_estelle", "label": "Pocket Estelle (F)", "engine": "pocket", "speaker": "estelle"},
+    {"id": "pk_fantine", "label": "Pocket Fantine (F)", "engine": "pocket", "speaker": "fantine"},
+    {"id": "pk_jean",    "label": "Pocket Jean (H)",    "engine": "pocket", "speaker": "jean"},
+    {"id": "pk_javert",  "label": "Pocket Javert (H)",  "engine": "pocket", "speaker": "javert"},
+
+    {"id": "cb_vieux", "label": "Chatterbox vieux (H)", "engine": "chatterbox", "ref": "qw_vieux"},
+    {"id": "cb_homme", "label": "Chatterbox homme (H)", "engine": "chatterbox", "ref": "qw_homme"},
+    {"id": "cb_femme", "label": "Chatterbox femme (F)", "engine": "chatterbox", "ref": "qw_femme"},
+    {"id": "cb_jeune", "label": "Chatterbox jeune (F)", "engine": "chatterbox", "ref": "qw_jeune"}
+  ],
+
+  "directions": {
+    "_doc": "Consigne de jeu par réplique (style « dirigé » de Qwen). En anglais : les modèles la suivent mieux.",
+    "1379": "Mock-solemn, like a half-joking prayer, with a hint of irony",
+    "1380": "Amused gossip, slightly exasperated, emphasizing 'Allez savoir pourquoi'",
+    "1381": "Tense and agitated, recounting a frightening event, speaking faster as the story goes",
+    "1382": "Knowing and sarcastic, voice lowered as if sharing a secret",
+    "1383": "Worried and uncertain, recalling an anxious moment"
+  }
+}

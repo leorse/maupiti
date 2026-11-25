@@ -1,0 +1,70 @@
+{
+  "_doc": "Voix des personnages (Qwen3-TTS « stable » : une voix décrite en texte, créée une fois, puis clonée pour chaque réplique). 'profil' = résumé du guide du jeu (pour mémoire, non envoyé au modèle) ; 'voix' = description envoyée au modèle, en anglais (il la suit mieux). Pour changer une voix : modifier sa description puis relancer generer_voix.bat --refs-only : les références dont la description a changé sont refaites seules (les répliques de ce personnage se régénèrent au lancement suivant). Le champ accent est ajouté à toutes les descriptions. 'hauteur' = hauteur de la synthèse d'origine, à titre d'indication. Marie, Lucie et Jérôme Lange (le joueur) n'ont aucune réplique parlée : pas de voix.",
+  "accent": "Native French speaker from Paris, pure standard metropolitan French pronunciation and intonation, absolutely no English or foreign accent",
+  "personnages": [
+    {
+      "id": 0,
+      "nom": "Maguy",
+      "hauteur": 3,
+      "profil": "Tenancière du manoir, fait travailler les filles ; elle commande sur l'île. Considère Marie comme sa fille, fréquente Bruce dont elle connaît l'addiction, soupçonne Chris. Effondrée par la mort de Juste et le départ de Sue et d'Anita.",
+      "voix": "A French woman in her late fifties, 1950s, mistress of a house on a tropical island. Rich warm mature voice, slightly husky from cigarettes, maternal but firmly in command, a worldly madam who is used to being obeyed, can turn sharp and suspicious"
+    },
+    {
+      "id": 1,
+      "nom": "Sue",
+      "hauteur": 1,
+      "profil": "Une des filles de la maison, très jolie, bosseuse, meilleure amie d'Anita. Mordue de Bob (sans réciprocité), apprécie Marie, pense du bien de Chris. Travaille ou s'amuse ; effrayée, elle finit par quitter l'île.",
+      "voix": "A young French woman around twenty-five, born and raised in Paris, French is her mother tongue, 1950s. Warm, soft, relaxed voice in a medium to low-medium pitch, definitely not high-pitched and not squeaky, smooth and a little sensual, cheerful and flirtatious in a gentle natural way, a bit naive, turns small and frightened when scared"
+    },
+    {
+      "id": 2,
+      "nom": "Anita",
+      "hauteur": 2,
+      "profil": "Une des filles que Maguy prostitue, militante communiste. Seule à ne pas apprécier Marie, ce qui lui vaut l'inimitié de Bob. Dernière à voir Juste vivant ; sa mort l'affecte, elle boit au bar. Terrorisée par la découverte du cadavre, elle quitte l'île avec Sue.",
+      "voix": "A French woman around thirty, born and raised in a working-class district of Paris, French is her only mother tongue, speaking with a typical Parisian faubourg accent, 1950s. Low husky smoky voice, bitter and sardonic, a convinced communist with a sharp tongue, drinks too much, weary and hard on the surface but easily moved, sometimes slightly slurred"
+    },
+    {
+      "id": 3,
+      "nom": "Bruce",
+      "hauteur": -1,
+      "profil": "Capitaine du Bamboo. Passe son temps dans sa cabine à fumer de l'opium, inapte à la navigation ; n'aime pas les noirs. Ignore que son bateau sert au trafic d'armes. En manque, il déambule sans comprendre pourquoi il ne reçoit plus d'opium. Découvre le cadavre de Marie.",
+      "voix": "A French man in his late forties, 1950s, a ship captain ruined by opium. Hoarse tired baritone, slow and slurred, tense and nervous when in withdrawal, bitter, defensive and suspicious, sometimes dreamy and absent"
+    },
+    {
+      "id": 4,
+      "nom": "Roy",
+      "hauteur": 0,
+      "profil": "Excellent marin, véritable capitaine du Bamboo grâce à la vente de drogue à Bruce. Complice de Marie, assassin de Lucie et de Juste, ce qu'il cache. Gouailleur en apparence.",
+      "voix": "A French man in his fifties, 1950s, an experienced sailor. Gruff gravelly voice, jovial and boisterous, jokes and teases to hide that he is a cold-blooded killer, a hint of menace under the good humour, a bit coarse"
+    },
+    {
+      "id": 5,
+      "nom": "Chris",
+      "hauteur": -2,
+      "profil": "Agent secret britannique qui se fait passer pour un marin du Bamboo ; le personnage le moins apprécié de l'île car il fouine partout. Enquête sur la disparition de l'agent 0012. Seul à ne pouvoir être soudoyé. Cible des coups de feu du 1er février.",
+      "voix": "A French man in his early thirties, 1950s, a secret agent pretending to be a simple sailor. Calm controlled mid-low voice, reserved and precise, clipped answers, polite but cold, gives nothing away, watchful"
+    },
+    {
+      "id": 6,
+      "nom": "Bob",
+      "hauteur": -2,
+      "profil": "Capitaine du Brisban, petit ami de Marie, passe son temps à la chercher. S'est disputé avec elle le 30. Persuadé qu'Anita est la dame en noir ; fouille sa chambre. Enterre le corps de la plage sud, qu'il croit être Marie.",
+      "voix": "A French man around forty, 1950s, a ship captain and a man of action. Strong firm baritone, authoritative and curt, impatient and tense, anxious about his lost lover under the hard shell, short of patience with people who waste his time"
+    },
+    {
+      "id": 7,
+      "nom": "Anton",
+      "hauteur": -1,
+      "profil": "Marin du Brisban, sous les ordres de Bob. Apprécie les filles et le travail (passe la journée à la salle des machines). Passe la nuit du 1er avec Sue. Persuadé que c'est Bruce le coupable. Découvre le caisson étanche.",
+      "voix": "A young French man around twenty-five, 1950s, a deckhand and engine-room worker. Warm soft voice, a little shy and respectful, earnest and hard-working, worried and melancholic, talks politely to the person he addresses as sir"
+    },
+    {
+      "id": 8,
+      "nom": "Juste",
+      "hauteur": -3,
+      "profil": "Dernier des Maupitis, habitants originels de l'île. Calme et simple, passe son temps à la pêche et au jardinage, apprécié de tous sauf de Bruce qui est raciste. Se méfie de Chris. Meurt égorgé par Roy.",
+      "voix": "An old man around seventy, native French speaker, 1950s, the last native of a tropical island, a fisherman and gardener. Deep calm unhurried voice, gentle and dignified, simple and wise, speaks slowly with a soft musical lilt, no hurry and no anger"
+    }
+  ],
+  "texte_de_reference": "Salut les ptite bites. Je vis ici depuis longtemps, et je connais tout le monde sur cette île. Demandez-moi ce que vous voulez, je vous enverrai vous faire foutre."
+}

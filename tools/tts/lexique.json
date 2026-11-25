@@ -1,0 +1,11 @@
+{
+  "_doc": "Prononciation des noms, appliquée uniquement au texte envoyé à la synthèse (jamais au texte affiché). Mots entiers, respect de la casse. Écoutez puis corrigez ; supprimez les fichiers concernés (ou lancez avec --force) pour régénérer.",
+  "Roy": "Rauille",
+  "Sue": "Sou",
+  "Bruce": "Brouce",
+  "Chris": "Criss",
+  "Maguy": "Maguie",
+  "Bamboo": "Bambou",
+  "Brisban": "Brisban",
+  "Maupiti": "Mopiti"
+}

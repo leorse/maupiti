@@ -1,0 +1,30 @@
+# graft's local graph cache — regenerable, not committed (run `graft build`).
+/graft/
+
+# Données d'origine (protégées par le droit d'auteur) : jamais versionnées.
+/originals/
+/install/
+/Maupiti/
+/maupiti_island_fr_lankhor/
+*.zip
+*.7z
+*.stx
+*.STX
+setup-*.exe
+Lisez-Moi.txt
+
+# Sorties générées par les outils d'extraction / le build
+/out/
+/build/
+
+# Python
+__pycache__/
+*.pyc
+/.venv/
+
+# Moteur (binaires et objets)
+/engine/build/
+
+# Outils tiers téléchargés (Piper, modèles de voix)
+/third_party/
+sauvegardes/

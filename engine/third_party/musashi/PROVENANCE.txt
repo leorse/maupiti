@@ -1,0 +1,5 @@
+Musashi, émulateur Motorola 68000 (Karl Stenerud), licence MIT (voir readme.txt).
+Source : https://github.com/kstenerud/Musashi, commit 313ebf1bd9f4d0d93341eb5ce21fd8a119e9dbdd.
+Sert au moteur à exécuter le pilote son d'origine de la version Atari ST (archive 2, extraite des
+disquettes au premier lancement) : musique et bruitages identiques à l'Atari.
+Les tables d'instructions (m68kops.c, m68kops.h) sont produites par m68kmake à partir de m68k_in.c.
